@@ -2,11 +2,11 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
+  display: Markus Ossenbach Kwok
+  given: Markus
+  family: Ossenbach Kwok
   pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  pronouns: he/him
 status:
   icon: "☕️"
 role: Professor of Artificial Intelligence
